@@ -1,0 +1,5 @@
+PROJECT_NAME="SSGSample"
+APPLICATION_NAME="/SSGSample"
+TARGET_PLATFORM="WebGL"
+BUILD_METHOD"CommandLineBuilder.Build"
+BUILD_COMMAND"-batchmode -quit -logfile $2/log.txt -projectPath $2/$PROJECT_NAME -executeMethod $BUILD_METHOD -outputPath Build$APPLICATION_NAME -platform $TARGET_PLATFORM"
