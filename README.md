@@ -14,7 +14,7 @@ ShellScriptGeneratorはGit管理されたUnityのプロジェクトを、Jenkins
 
 **現在はStandaloneWindows64、StandaloneOSX、WebGLのビルドに対応しています。**
 
-ShellScriptGeneratorとJenkinsを利用した自動ビルドの環境構築手順はこちらを参考にしてください(工事中)
+ShellScriptGeneratorとJenkinsを利用した自動ビルドの環境構築手順はこちらを参考にしてください(準備中)
 
 # ShellScriptGeneratorの使い方
 
